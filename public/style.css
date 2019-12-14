@@ -1,0 +1,56 @@
+body {
+    background-image: url("https://cdnb.artstation.com/p/assets/images/images/014/929/285/large/lorenzo-borille-background-2-0.jpg?1546348689");
+    font-family: 'Nanum Pen Script', cursive;
+  }
+
+  #wrapper {
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 5%;
+    color: #FCF5C7;
+  }
+
+  #articles {
+    /* background-image: url("https://images.pexels.com/photos/261763/pexels-photo-261763.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"); */
+    display: inline-block;
+    overflow: auto;
+    width: 60%;
+    height: 700px;
+    font-family: 'Nanum Pen Script', cursive;
+
+  }
+
+  #notes {
+    float: right;
+    width: 30%;
+    font-family: 'Nanum Pen Script', cursive;
+
+  }
+
+  textarea,
+  input {
+    display: block;
+    width: 100%;
+    background-color: #FCF5C7;
+    font-family: 'Nanum Pen Script', cursive;
+
+  }
+
+  input {
+    height: 36px;
+    font-size: 24px;
+    font-family: 'Nanum Pen Script', cursive;
+    background-color: #FCF5C7;
+
+
+  }
+
+  textarea {
+    height: 200px;
+    font-size: 18px;
+    font-family: 'Nanum Pen Script', cursive;
+    background-color: #FCF5C7;
+
+
+  }
